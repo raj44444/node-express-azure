@@ -4,6 +4,8 @@
 
 This is a Node and Express web application used to demonstrate CI/CD with Azure DevOps. You can clone this repo and use it within Azure DevOps to build, test, and release to an Azure App Service web app.
 
+[![Build Status](https://dev.azure.com/AKS-DevOps-Org/NodeJS-project/_apis/build/status/raj44444.node-express-azure?branchName=master)](https://dev.azure.com/AKS-DevOps-Org/NodeJS-project/_build/latest?definitionId=4&branchName=master)
+
 ## Running and Testing Locally:
 
 You can use these commands to install, test, and run the app locally. (Not Required)
